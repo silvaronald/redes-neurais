@@ -1,0 +1,5 @@
+Best hyperparameters:  {'learning_rate': 0.0775989125072219, 'n_estimators': 586, 'subsample': 0.829176425590257, 'min_child_weight': 4, 'max_depth': 8, 'gamma': 2.0402810385528825, 'colsample_bytree': 0.9878530475556984}
+Best value:  0.9227394433726586
+
+Best hyperparameters:  {'learning_rate': 0.09385796484013235, 'n_estimators': 976, 'subsample': 0.8647494152550593, 'min_child_weight': 1, 'max_depth': 14, 'gamma': 3.443781277581112, 'colsample_bytree': 0.8436833949649735}
+Best value:  0.9257939834230734
