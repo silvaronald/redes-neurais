@@ -1,0 +1,10 @@
+---------------------------------------------------------------------
+
+n_estimators = trial.suggest_int('n_estimators', 50, 500)
+max_depth = trial.suggest_int('max_depth', 5, 50)
+max_features = trial.suggest_uniform('max_features', 0.1, 1)
+min_samples_leaf = trial.suggest_int('min_samples_leaf', 1, 20)
+n_trials = 100
+
+{'n_estimators': 148, 'max_depth': 24, 'max_features': 10, 'min_samples_leaf': 1}
+0.9229837266613823 / 0.99
