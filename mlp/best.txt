@@ -1,0 +1,5 @@
+Best Hyperparameters: {'epochs': 30, 'n_layers': 3, 'n_units_l0': 57, 'n_units_l1': 192, 'n_units_l2': 125, 'learning_rate_init': 0.060946957712917, 'activation': 'tanh', 'solver': 'sgd', 'alpha': 0.00035147738556410034}
+Best value: 0.9078830669803607
+
+Best Hyperparameters: {'epochs': 12, 'n_layers': 3, 'n_units_l0': 192, 'n_units_l1': 71, 'n_units_l2': 123, 'learning_rate_init': 0.08177715807672514, 'activation': 'relu', 'solver': 'sgd', 'alpha': 0.0034841450783612967}
+Best value: 0.9130751369577201
